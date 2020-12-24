@@ -1,57 +1,54 @@
-# Unit 17 Nosql Homework: Workout Tracker
+# WorkoutTracker
+    
+  ## Desription
+          
+  This app helps the user track his/her workouts
+  
+  ## Table of Contents
+  
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  
+  ## Installation
+  Install dependencies, run the app
+  
+  ## Usage
+  Help fitness enthusiasts track their workouts for better results
+  
+  ## License
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
+  
+  ## Contributing
+  talysh
+  
+  ## Tests
+  none
+  
+  ## Questions
+  
+  For more information:
+  Visit: [https://talysh.github.io](https://talysh.github.io)
+  Email: taleh.aliyev@gmail.com
 
-For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.
+  ## Screenshots
 
-## User Story
+  ### Sample workout screen
+  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-exercise.png)
 
-* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+  ### Add a new workout
 
-## Business Context
+  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-addworkout.png)
 
-A consumer will reach their fitness goals more quickly when they track their workout progress.
 
-## Acceptance Criteria
+  ### Show user stats
+  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-stats.png)
 
-When the user loads the page, they should be given the option to create a new workout or continue with their last workout.
+  ## Deployed app link
 
-The user should be able to:
+  [https://fast-brushlands-26392.herokuapp.com/?id=5fe4bf32021f3900176447fd](https://fast-brushlands-26392.herokuapp.com/?id=5fe4bf32021f3900176447fd)
 
-  * Add exercises to a previous workout plan.
-
-  * Add new exercises to a new workout plan.
-
-  * View the combined weight of multiple exercises on the `stats` page.
-
-To deploy an application with a MongoDB database to Heroku, you'll need to set up a MongoDB Atlas account and connect a database from there to your application. Be sure to use the following guides for support:
-
-  * [Set Up MongoDB Atlas](../04-Supplemental/MongoAtlas-Setup.md)
-
-  * [Deploy with Heroku and MongoDB Atlas](../04-Supplemental/MongoAtlas-Deploy.md)
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for the following two reasons:
-
-1. Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-2. Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We want you to have well over 200 commits by graduation, so commit early and often!
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URL to the deployed application
-
-* The URL to the GitHub repository
