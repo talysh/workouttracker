@@ -38,15 +38,15 @@
   ## Screenshots
 
   ### Sample workout screen
-  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-exercise.png)
+  ![image](https://talysh.github.io/workouttracker/tree/main/public/assets/img/samplescreen-exercise.png)
 
   ### Add a new workout
 
-  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-addworkout.png)
+  ![image](https://talysh.github.io/workouttracker/tree/main/public/assets/img/samplescreen-addworkout.png)
 
 
   ### Show user stats
-  ![image](https://github.com/talysh/workouttracker/tree/main/public/assets/img/samplescreen-stats.png)
+  ![image](https://talysh.github.io/workouttracker/tree/main/public/assets/img/samplescreen-stats.png)
 
   ## Deployed app link
 
